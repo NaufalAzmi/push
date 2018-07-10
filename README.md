@@ -1,0 +1,2 @@
+# push
+push dan pull
